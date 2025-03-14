@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">I'm Parneeca from India <br><br>- 🔭 I’m studying at VIT Vellore<br>- 📚 Trying things out<br>- ⚡ In my free time I watch Netflix</p>
+<p align="left">Hey! I'm Parneeca <br><br>- 🔭 I’m studying at VIT Vellore<br>- 📚 Trying things out<br>- ⚡ In my free time I watch Netflix</p>
 
 ###
 
