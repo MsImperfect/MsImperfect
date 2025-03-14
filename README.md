@@ -55,3 +55,7 @@
 </div>
 
 ###
+
+<img src="https://raw.githubusercontent.com/MsImperfect/MsImperfect/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
